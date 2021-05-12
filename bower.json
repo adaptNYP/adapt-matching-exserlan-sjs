@@ -1,0 +1,19 @@
+{
+    "name": "adapt-matching-exserlan-sjs",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/adaptNYP/adapt-matching-exserlan-sjs.git"
+    },
+    "framework": ">=5",
+    "version": "1.0.0",
+    "homepage": "https://github.com/adaptNYP/adapt-matching-exserlan-sjs",
+    "component": "matching-exserlan-sjs",
+    "displayName": "Matching EXSERLAN SJS",
+    "description": "Matching EXSERLAN SJS component to identify learners' class",
+    "main": "/js/adapt-matching-exserlan-sjs.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component"
+    ],
+    "license": "GPL-3.0"
+}
